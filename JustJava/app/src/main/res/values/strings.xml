@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_text_box_hint">Enter Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">ORDER</string>
+    <string name="over_100">Can only go up to 100</string>
+    <string name="under_1">Can not go below 1</string>
+    <string name="subject">Just Java order for </string>
+    <string name="name">Name: </string>
+    <string name="with_cream">\nAdd whipped cream? </string>
+    <string name="with_chocolate">\nAdd chocolate? </string>
+    <string name="quantity_out">\nQuantity: </string>
+    <string name="all_up">\nTotal: </string>
+    <string name="thanks">\nThank You</string>
+
+
+</resources>
